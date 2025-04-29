@@ -21,7 +21,8 @@ Search for basic things like "What is Bitcoin Cash" or just "Bitcoin Cash" or ma
 Try to avoid comments saying they are biased or hijacked, but focus on comments saying "out of date" and these other sites are more relevant. An example of a recent feedback I submitted was this: "Certain sources such as bitcoincash.org, whatisbitcoin.cash, and discover.cash should absolutely be included higher in the rankings. The by and large majority of the sources shown here are displaying highly out of date information."
 
 Believe it or not, this helps. Submitting this feedback has changed the search rankings in bing and duckduckgo for sites, including my own.
-![IMAGE 2025-04-29 13:24:19|386x500](upload://4968tSE0ucCUzeOToF4ABi4uSn4.jpeg)
+![IMAGE 2025-04-29 13:39:42](https://github.com/user-attachments/assets/73262c38-be9b-47c4-a962-c1386f105267)
+
 
 
 **What can CREATORS do?**
@@ -84,7 +85,8 @@ The validator has largely been deprecated so you can't see the preview on that p
 As for Telegram, you MUST send the URLs to this bot: @WebpageBot
 Each website/page needs a URL to be sent. Below is an image showing the options and the difference between a site with a card set in HTML and a site without:
 You'll notice options to Update Preview and Update Content, press both buttons after sending a URL. Then you're good to go! The below site does not have a card (yet) so when sending a link nothing happens. This is how they will appear in chats!
-![Screenshot 2025-04-29 at 13.33.36|690x424](upload://loK5thqbALriyN0mafqXE7KZcny.jpeg)
+<img width="1654" alt="Screenshot 2025-04-29 at 13 40 02" src="https://github.com/user-attachments/assets/a2531a1e-cc5a-4503-8721-ffd8e6fe8e29" />
+
 
 
 ***Existing Media Article Enhancements***
@@ -123,7 +125,8 @@ Not much more to share, but apply the same idea from right above to this. Many s
 
 ***Broader Image/Graphic Sharing***
 If you create graphics, memes, stickers, etc related to BCH, or take photos of merchants with BCH stickers or of you spending BCH, post it! And not just on social media, post it on places like Wikimedia! Below see a screenshot of what a post would look like. Tagging Bitcoin Cash and otherwise and putting it in the image description helps a lot, and will get more attention as people search for images. These will also appear very high in Google Images and Bing Images rankings.
-![Screenshot 2025-04-29 at 12.53.26|441x500](upload://ekxL5ApI8a43rdBuleoG0etKPau.png)
+<img width="956" alt="Screenshot 2025-04-29 at 12 53 26" src="https://github.com/user-attachments/assets/16cd12fd-5ba1-458d-add4-37ceb7eca4b2" />
+
 
 
 
