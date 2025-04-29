@@ -21,6 +21,7 @@ Search for basic things like "What is Bitcoin Cash" or just "Bitcoin Cash" or ma
 Try to avoid comments saying they are biased or hijacked, but focus on comments saying "out of date" and these other sites are more relevant. An example of a recent feedback I submitted was this: "Certain sources such as bitcoincash.org, whatisbitcoin.cash, and discover.cash should absolutely be included higher in the rankings. The by and large majority of the sources shown here are displaying highly out of date information."
 
 Believe it or not, this helps. Submitting this feedback has changed the search rankings in bing and duckduckgo for sites, including my own.
+
 ![IMAGE 2025-04-29 13:39:42](https://github.com/user-attachments/assets/73262c38-be9b-47c4-a962-c1386f105267)
 
 
@@ -30,6 +31,10 @@ All creators should take an hour or so to create Bing and Google Webmaster accou
 Additionally, particularly with Bing, the search engine will not generally automatically pull your favicon to display in web results. To get it displayed, you must contact their webmaster team through the console. This process is fairly painless, just a simple email requesting them to add your favicon (provide the web link to it) to bing search results, and within a few days or weeks they will complete the request! When they do this, they also appear to put the site through some sort of approval which boosts rankings (as I have noticed).
 
 Web owners should check out tools like Lighthouse to see how their page response, loading, etc works and suggestions for improvement: https://pagespeed.web.dev
+This is what a decent result will look like:
+
+<img width="975" alt="Screenshot 2025-04-29 at 15 01 54" src="https://github.com/user-attachments/assets/a43f8938-0039-4671-9fc5-e70b53208789" />
+
 
 Also, there are guidelines for proper meta tags and otherwise to handle search engines and to help ensure your intended title/description is shown. Titles should be 40-60 characters and descriptions between 140-160 characters. Google and other search engines will often truncate titles and descriptions, or even fully replace with random text grabs if titles and descriptions are longer (or, though less often, shorter!) than these lengths.
 
@@ -85,6 +90,7 @@ The validator has largely been deprecated so you can't see the preview on that p
 As for Telegram, you MUST send the URLs to this bot: @WebpageBot
 Each website/page needs a URL to be sent. Below is an image showing the options and the difference between a site with a card set in HTML and a site without:
 You'll notice options to Update Preview and Update Content, press both buttons after sending a URL. Then you're good to go! The below site does not have a card (yet) so when sending a link nothing happens. This is how they will appear in chats!
+
 <img width="1654" alt="Screenshot 2025-04-29 at 13 40 02" src="https://github.com/user-attachments/assets/a2531a1e-cc5a-4503-8721-ffd8e6fe8e29" />
 
 
